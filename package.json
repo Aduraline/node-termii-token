@@ -11,8 +11,23 @@
     "supertest": "^6.2.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/index.js"
   },
-  "author": "Enoch Olutunmida",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aduraline/node-termii-token.git"
+  },
+  "keywords": [
+    "termii",
+    "termii otp",
+    "node-termii-token",
+    "verification code",
+    "in-app verification"
+  ],
+  "author": "Enoch Olutunmida <hello@enocholutunmida.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aduraline/node-termii-token/issues"
+  },
+  "homepage": "https://github.com/Aduraline/node-termii-token#readme"
 }
